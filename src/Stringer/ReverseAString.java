@@ -6,7 +6,7 @@ public class ReverseAString {
 		String s ="hello";
 		String rev ="";
 
-		String d;
+		
 
 
 		
