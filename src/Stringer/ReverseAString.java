@@ -15,7 +15,7 @@ public class ReverseAString {
 			char c = s.charAt(i);
 			rev =rev + c;
 		}
-		System.out.println(rev);
+		
 		
 		
 	}
