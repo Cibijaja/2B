@@ -5,7 +5,10 @@ public class ReverseAString {
 	public static void main(String[] args) {
 		String s ="hello";
 		String rev ="";
+
 		String d;
+
+
 		
 		
 		for (int i = s.length()-1; i >= 0; i--) {
@@ -13,7 +16,7 @@ public class ReverseAString {
 			rev =rev + c;
 		}
 		System.out.println(rev);
-		System.out.println(rev);
+		
 		
 	}
 	
