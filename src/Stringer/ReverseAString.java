@@ -6,15 +6,13 @@ public class ReverseAString {
 		String s ="hello";
 		String rev ="";
 		
-		String t ="Hi";
-		
 		
 		for (int i = s.length()-1; i >= 0; i--) {
 			char c = s.charAt(i);
 			rev =rev + c;
 		}
 		System.out.println(rev);
-		System.out.println(rev);
+		
 		
 	}
 	
